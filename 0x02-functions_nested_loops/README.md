@@ -1,1 +1,1 @@
-nested loops anmd functions project
+nested loops and functions project
